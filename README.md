@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,25:302b63,50:24243e,75:0f4c75,100:00c6ff&text=Welcome%20to%20my%20GitHub&fontAlign=50&fontAlignY=38&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Backend%20%7C%20Frontend%20%7C%20Growing%20Developer&descAlign=50&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,25:1e3a8a,55:2563eb,80:7c3aed,100:06b6d4&height=280&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=Backend%20%7C%20Frontend%20%7C%20Portfolio&descSize=22&descAlign=50&descAlignY=62&animation=fadeIn" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B;%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B3%A0+%EB%B0%B0%EC%9A%B0%EB%A9%B0+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4;Java+%2F+Spring+Boot+%26+React+%EA%B8%B0%EB%B0%98+%ED%95%99%EC%8A%B5+%EC%A4%91" />
+<h1 align="center">Java / Spring Boot & React</h1>
 
-<br><br>
-
-꾸준히 배우고 기록하며  
+<p align="center">
+꾸준히 배우고 기록하며<br>
 실무에 가까운 웹 개발 역량을 차근차근 쌓아가고 있습니다
+</p>
 
 </div>
 
