@@ -2,21 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1020,30:1B2A49,65:5B4B8A,100:2CA6A4&text=Welcome%20to%20my%20GitHub&fontColor=F8FAFC&fontSize=48&fontAlign=50&fontAlignY=40&desc=Backend%20%7C%20Frontend%20%7C%20Portfolio&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn" />
 
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-
-</div>
-
 <br><br>
 
 <h1 align="center">Java / Spring Boot & React</h1>
@@ -128,7 +113,7 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 ## 🧩 Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ohmyungsuk/ohmyungsuk/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohmyungsuk&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=7C83FD&point=2CA6A4&color=F8FAFC" />
 </div>
 
 ---
@@ -145,6 +130,6 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00c6ff,25:0072ff,50:6a11cb,75:302b63,100:0f0c29" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B1020,30:1B2A49,65:5B4B8A,100:2CA6A4" />
 
 </div>
