@@ -130,6 +130,6 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:0B1020,30:1B2A49,65:5B4B8A,100:2CA6A4&text=Welcome%20to%20my%20GitHub&fontColor=F8FAFC&fontSize=48&fontAlign=50&fontAlignY=40&desc=Backend%20%7C%20Frontend%20%7C%20Portfolio&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:0B1020,30:1B2A49,65:5B4B8A,100:2CA6A4" />
 
 </div>
