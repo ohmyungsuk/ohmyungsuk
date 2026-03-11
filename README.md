@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=260&color=0:0B1020,35:1B2A49,70:4B3F72,100:2C8C99&text=Welcome%20to%20my%20GitHub&fontColor=F8FAFC&fontSize=48&fontAlign=50&fontAlignY=42&desc=Backend%20%7C%20Frontend%20%7C%20Portfolio&descAlign=50&descAlignY=62&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1020,30:1B2A49,65:5B4B8A,100:2CA6A4&text=Welcome%20to%20my%20GitHub&fontColor=F8FAFC&fontSize=48&fontAlign=50&fontAlignY=40&desc=Backend%20%7C%20Frontend%20%7C%20Portfolio&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn" />
+
+</div>
 
 </div>
 
