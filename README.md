@@ -130,6 +130,6 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:071028,25:1D4ED8,60:7C3AED,100:14B8A6" />
+<img src="https://capsule-render.vercel.app/api?type=slice&height=170&section=footer&color=0:0B1020,40:243B6B,75:5B4B8A,100:2CA6A4" />
 
 </div>
