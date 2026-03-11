@@ -1,9 +1,9 @@
 <div align="center">
 
-# 안녕하세요 👋  
-### 꾸준히 배우고 기록하며 성장하는 개발자입니다
+# 안녕하세요 👋
+### 백엔드와 프론트엔드를 함께 학습하며 성장하고 있는 개발자입니다
 
-백엔드와 프론트엔드를 함께 학습하며  
+꾸준히 배우고 기록하며  
 실무에 가까운 웹 개발 역량을 차근차근 쌓아가고 있습니다
 
 <br>
@@ -19,7 +19,7 @@
 - Java / Spring Boot 기반 백엔드 개발을 중심으로 학습하고 있습니다
 - React, HTML, CSS, JavaScript를 활용한 프론트엔드도 함께 공부하고 있습니다
 - 학원 실습과 개인 학습 내용을 GitHub에 꾸준히 기록하고 있습니다
-- 기록과 반복을 통해 천천히 하지만 확실하게 성장하는 것을 목표로 하고 있습니다
+- 기록과 반복을 통해 안정적으로 성장하는 개발자를 목표로 하고 있습니다
 
 ---
 
@@ -59,25 +59,34 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Studying%20Hard-00C853?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Focused-1976D2?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-Learning-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20%26%20Spring%20Boot-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Practice-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Database%20Study-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Goals
+## 🚀 Career Focus
 
 <div align="center">
 
-| 목표 | 내용 |
+| 분야 | 목표 |
 |---|---|
-| Backend | Java / Spring Boot 기반 웹 개발 실력 강화 |
-| Frontend | React 중심 프론트엔드 구현 능력 향상 |
-| Database | Oracle / MongoDB 활용 능력 향상 |
-| Record | 학습 과정과 프로젝트를 GitHub에 꾸준히 정리 |
+| Backend | Java / Spring Boot 기반 웹 서비스 구현 역량 강화 |
+| Frontend | React 기반 UI 구현 및 컴포넌트 설계 능력 향상 |
+| Database | Oracle / MongoDB 활용 및 데이터 처리 역량 강화 |
+| Collaboration | GitHub 기반 프로젝트 기록 및 협업 습관 형성 |
 
 </div>
+
+---
+
+## 🗂 Portfolio Highlights
+
+- Java / Spring Boot 기반 웹 개발 학습
+- React 중심 프론트엔드 실습 기록
+- HTML CSS JavaScript 기초부터 단계별 정리
+- GitHub를 활용한 학습 과정 및 프로젝트 관리
 
 ---
 
@@ -92,12 +101,11 @@
 
 ---
 
-## 🧩 One More Thing
+## 💬 Motto
 
 <div align="center">
 
-**꾸준함은 가장 강한 실력이라고 믿습니다**  
-배우고 기록하고 다시 만들며 성장하고 있습니다
+**꾸준함을 바탕으로 배우고 기록하며 성장합니다**
 
 </div>
 
