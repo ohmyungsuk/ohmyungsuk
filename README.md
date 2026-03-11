@@ -7,8 +7,10 @@
 <h1 align="center">Java / Spring Boot & React</h1>
 
 <p align="center">
-꾸준히 배우고 기록하며<br>
-실무에 가까운 웹 개발 역량을 차근차근 쌓아가고 있습니다
+Java / Spring Boot 기반 백엔드와<br>
+React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
+실습과 기록을 반복하면서<br>
+웹 개발 역량을 차근차근 넓혀가고 있습니다
 </p>
 
 </div>
