@@ -125,8 +125,10 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 
 <br>
 
+## 🧩 Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohmyungsuk&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=58A6FF&point=FFFFFF&color=58A6FF" />
+  <img src="https://raw.githubusercontent.com/ohmyungsuk/ohmyungsuk/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="contribution graph" />
 </div>
 
 ---
