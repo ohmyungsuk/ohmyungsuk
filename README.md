@@ -36,9 +36,16 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JSP-1565C0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Servlet-1E88E5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-FBC02D?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+
+<table>
+  <tr>
+    <td align="center" width="90" height="90" bgcolor="#1565C0"><b><font color="white">JSP</font></b></td>
+    <td align="center" width="90" height="90" bgcolor="#1E88E5"><b><font color="white">Servlet</font></b></td>
+    <td align="center" width="90" height="90" bgcolor="#FBC02D"><b><font color="black">Tomcat</font></b></td>
+    <td align="center" width="90" height="90" bgcolor="#F80000"><b><font color="white">Oracle</font></b></td>
+  </tr>
+</table>
+
 </div>
 
 ### Frontend
@@ -47,9 +54,7 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 </div>
 
 ### Database & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,notion,vscode&theme=dark" />
-</div>
+
 
 <br>
 
