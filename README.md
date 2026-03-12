@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1020,30:1B2A49,65:5B4B8A,100:2CA6A4&text=Welcome%20to%20my%20GitHub&fontColor=F8FAFC&fontSize=48&fontAlign=50&fontAlignY=40&desc=Backend%20%7C%20Frontend%20%7C%20Portfolio&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:050816,25:1D4ED8,55:7C3AED,80:EC4899,100:22D3EE" />
 
 <br><br>
 
@@ -36,16 +36,9 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 <br>
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="90" height="90" bgcolor="#1565C0"><b><font color="white">JSP</font></b></td>
-    <td align="center" width="90" height="90" bgcolor="#1E88E5"><b><font color="white">Servlet</font></b></td>
-    <td align="center" width="90" height="90" bgcolor="#FBC02D"><b><font color="black">Tomcat</font></b></td>
-    <td align="center" width="90" height="90" bgcolor="#F80000"><b><font color="white">Oracle</font></b></td>
-  </tr>
-</table>
-
+  <img src="https://img.shields.io/badge/JSP-1565C0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Servlet-1E88E5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-FBC02D?style=for-the-badge&logo=apachetomcat&logoColor=black" />
 </div>
 
 ### Frontend
@@ -54,7 +47,9 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 </div>
 
 ### Database & Tools
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,notion,vscode&theme=dark" />
+</div>
 
 <br>
 
@@ -135,6 +130,6 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:050816,25:1D4ED8,55:7C3AED,80:EC4899,100:22D3EE" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=220&section=footer&color=0:050816,25:1D4ED8,55:7C3AED,80:EC4899,100:22D3EE" />
 
 </div>
