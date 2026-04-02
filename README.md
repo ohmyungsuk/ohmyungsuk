@@ -104,8 +104,7 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ohmyungsuk&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmyungsuk&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ohmyungsuk&show_icons=true&theme=tokyonight)
 
 </div>
 
