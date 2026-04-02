@@ -100,38 +100,12 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 
 ---
 
-## ✨ Developer Profile
+## 🌱 Growing Step by Step
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### Backend
-Java  
-Spring Boot  
-JSP / Servlet  
-
-</td>
-<td align="center" width="33%">
-
-### Frontend
-React  
-HTML / CSS  
-JavaScript  
-
-</td>
-<td align="center" width="33%">
-
-### Database / Tools
-Oracle  
-MongoDB  
-Git / GitHub  
-
-</td>
-</tr>
-</table>
+> 백엔드와 프론트엔드를 함께 공부하며  
+> 작은 기능도 직접 구현하고 기록하는 개발자를 목표로 하고 있습니다.
 
 </div>
 <br>
