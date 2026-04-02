@@ -100,16 +100,40 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 
 ---
 
-## 📈 GitHub Stats
+## ✨ Developer Profile
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ohmyungsuk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=F8FAFC" />
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmyungsuk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=F8FAFC" />
+### Backend
+Java  
+Spring Boot  
+JSP / Servlet  
+
+</td>
+<td align="center" width="33%">
+
+### Frontend
+React  
+HTML / CSS  
+JavaScript  
+
+</td>
+<td align="center" width="33%">
+
+### Database / Tools
+Oracle  
+MongoDB  
+Git / GitHub  
+
+</td>
+</tr>
+</table>
 
 </div>
-
 <br>
 
 ## 🧩 Activity
