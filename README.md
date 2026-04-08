@@ -29,33 +29,26 @@ React 기반 프론트엔드를 다루는 웹 개발자입니다.<br><br>
 
 ## 🛠 Tech Stack
 
-### Backend & Server
+### Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,php&theme=dark" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JSP-1565C0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Servlet-1E88E5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-FBC02D?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
 </div>
 
 ### Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
 </div>
 
 ### Database & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,notion,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeidiSQL-1E88E5?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
@@ -63,15 +56,9 @@ React 기반 프론트엔드를 다루는 웹 개발자입니다.<br><br>
 ## 📌 Development Focus
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,python&theme=dark" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Backend%20Development-Java%20%26%20Spring%20Boot-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend%20Development-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Database-Oracle%20%26%20MongoDB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Java%20%26%20Spring%20Boot-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ---
@@ -84,7 +71,7 @@ React 기반 프론트엔드를 다루는 웹 개발자입니다.<br><br>
 |---|---|
 | Backend | Java / Spring Boot 기반 API 및 웹 서비스 구현 |
 | Frontend | React 기반 UI 개발 및 사용자 흐름 개선 |
-| Database | Oracle / MongoDB 기반 데이터 설계 및 처리 |
+| Database | MySQL 기반 데이터 설계 및 처리 |
 | Project | 기능 중심 프로젝트 개발 및 구조 개선 |
 | Collaboration | GitHub 기반 버전 관리 및 프로젝트 기록 |
 
